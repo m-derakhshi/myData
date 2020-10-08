@@ -1,36 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T19:22:22.422Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="HThsqUkTN79VQ8R5pp3X" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T21:23:32.872Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="0bSNPFzY3hMtfe8tyTbw" version="13.7.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1185" dy="1139" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="1388" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="7pnY4UaTc7vciJoPrL99-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="7pnY4UaTc7vciJoPrL99-160">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7pnY4UaTc7vciJoPrL99-178" value="فاز سه" style="swimlane;fontSize=10;swimlaneFillColor=#7EA6E0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="994" y="-420" width="322" height="567" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="مفید آنلاین" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;strokeWidth=1;gradientColor=#ffffff;fillColor=#99FFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1105.3600000000001" y="71.49" width="168.87" height="28" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="مفید آنلاین" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;strokeWidth=1;gradientColor=#ffffff;fillColor=#99FFFF;" parent="7pnY4UaTc7vciJoPrL99-178" vertex="1">
+          <mxGeometry x="82.95000000000005" y="469.49" width="168.87" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-7">
+        <mxCell id="7pnY4UaTc7vciJoPrL99-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=10;" edge="1" parent="7pnY4UaTc7vciJoPrL99-178" source="7pnY4UaTc7vciJoPrL99-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1189.8833333333334" y="-249" as="targetPoint" />
+            <mxPoint x="167.47333333333336" y="149" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-7" target="7pnY4UaTc7vciJoPrL99-159">
+        <mxCell id="7pnY4UaTc7vciJoPrL99-7" value="کد جاوا اسکریپت&lt;br&gt;جهت تبادل اطلاعات با سوکت" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="7pnY4UaTc7vciJoPrL99-178">
+          <mxGeometry x="82.95000000000005" y="196.49" width="169.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=10;" edge="1" parent="7pnY4UaTc7vciJoPrL99-178" target="7pnY4UaTc7vciJoPrL99-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="167.47333333333336" y="149" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-13" value="سوکت" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;fillColor=#ffffff;" vertex="1" parent="7pnY4UaTc7vciJoPrL99-178">
+          <mxGeometry x="118.58999999999992" y="70" width="111.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=10;" edge="1" parent="7pnY4UaTc7vciJoPrL99-178" source="7pnY4UaTc7vciJoPrL99-159" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-7" value="کد جاوا اسکریپت&lt;br&gt;جهت تبادل اطلاعات با سوکت" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1105.3600000000001" y="-201.51" width="169.5" height="80" as="geometry" />
+        <mxCell id="7pnY4UaTc7vciJoPrL99-159" value="&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 12px&quot;&gt;خرید /&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 12px&quot;&gt;فروش&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-free/96/Coins-128.png;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;fontSize=10;" vertex="1" parent="7pnY4UaTc7vciJoPrL99-178">
+          <mxGeometry x="188.81999999999994" y="315.99" width="72" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="7pnY4UaTc7vciJoPrL99-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1189.8833333333334" y="-249" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=10;" edge="1" parent="7pnY4UaTc7vciJoPrL99-178" source="7pnY4UaTc7vciJoPrL99-7" target="7pnY4UaTc7vciJoPrL99-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;fontSize=10;" edge="1" parent="7pnY4UaTc7vciJoPrL99-178" source="7pnY4UaTc7vciJoPrL99-160" target="7pnY4UaTc7vciJoPrL99-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-160" value="دریافت اطلاعات حساب" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/mail-send-receive-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;gradientColor=#ffffff;" vertex="1" parent="7pnY4UaTc7vciJoPrL99-178">
+          <mxGeometry x="82.95000000000005" y="315.99" width="76.5" height="76.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=10;" edge="1" parent="7pnY4UaTc7vciJoPrL99-178" source="WIyWlLk6GJQsqaUBKTNV-12" target="7pnY4UaTc7vciJoPrL99-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-177" value="فاز دو" style="swimlane;fontSize=10;swimlaneFillColor=#99FF33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="665" y="-420" width="322" height="567" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-137" value="" style="group" vertex="1" connectable="0" parent="7pnY4UaTc7vciJoPrL99-177">
+          <mxGeometry x="21" y="119" width="301" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-136" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;fontSize=10;" vertex="1" parent="7pnY4UaTc7vciJoPrL99-137">
+          <mxGeometry x="-14.477050938337799" width="310.68364611260057" height="310.570265060241" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-106" value="استراتژی های خرید" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/xomo-basics/128/document-10-128.png;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;fontSize=10;" vertex="1" parent="7pnY4UaTc7vciJoPrL99-137">
+          <mxGeometry x="143.3905898123324" y="98.79807228915664" width="90.95434986595174" height="90.95434986595174" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-134" value="استراتژی های فروش" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/finance-152/64/19-128.png;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;fontSize=10;" vertex="1" parent="7pnY4UaTc7vciJoPrL99-137">
+          <mxGeometry x="53.21163538873999" y="110.0298795180723" width="79.72244638069705" height="79.72244638069705" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-176" value="فاز یک" style="swimlane;fontSize=10;swimlaneFillColor=#FFE599;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="336" y="-420" width="322" height="567" as="geometry" />
         </mxCell>
         <mxCell id="7pnY4UaTc7vciJoPrL99-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=10;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-13" target="7pnY4UaTc7vciJoPrL99-136">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-13" value="سوکت" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1141" y="-328" width="111.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7pnY4UaTc7vciJoPrL99-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-22" target="7pnY4UaTc7vciJoPrL99-40">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7pnY4UaTc7vciJoPrL99-108" value="لیست شاخص ها جهت بررسی و دحیره اطلاعات روزانه" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;gradientColor=#ffffff;strokeColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="357" y="-239" width="137" height="60" as="geometry" />
+          <mxGeometry x="357" y="-308" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7pnY4UaTc7vciJoPrL99-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-131" target="7pnY4UaTc7vciJoPrL99-40">
           <mxGeometry relative="1" as="geometry" />
@@ -67,41 +100,17 @@
         <mxCell id="7pnY4UaTc7vciJoPrL99-131" value="worders" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/infographic-vol-2-1/512/13-128.png;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;gradientColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455" y="41.99999999999999" width="86" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-137" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="693" y="-280" width="373" height="415" as="geometry" />
-        </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-106" value="استراتژی های خرید" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/xomo-basics/128/document-10-128.png;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;fontSize=10;" vertex="1" parent="7pnY4UaTc7vciJoPrL99-137">
-          <mxGeometry x="177.68999999999994" y="106.80000000000001" width="113.37" height="113.37" as="geometry" />
-        </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-134" value="استراتژی های فروش" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/finance-152/64/19-128.png;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;fontSize=10;" vertex="1" parent="7pnY4UaTc7vciJoPrL99-137">
-          <mxGeometry x="65.94000000000005" y="120.80000000000001" width="99.37" height="99.37" as="geometry" />
-        </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-136" value="" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;fontSize=10;" vertex="1" parent="7pnY4UaTc7vciJoPrL99-137">
-          <mxGeometry x="-17.939999999999998" width="385" height="340.97" as="geometry" />
-        </mxCell>
         <mxCell id="7pnY4UaTc7vciJoPrL99-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.288;entryY=0.206;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=10;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-141" target="7pnY4UaTc7vciJoPrL99-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7pnY4UaTc7vciJoPrL99-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-141" target="7pnY4UaTc7vciJoPrL99-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-141" value="لیست سهام مورد هدف با دامنه نوسان + سهام وابسته" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;gradientColor=#ffffff;strokeColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="385" y="-364" width="137" height="60" as="geometry" />
+        <mxCell id="7pnY4UaTc7vciJoPrL99-141" value="لیست سهام با ریز جزییات مثل دامنه نوسان وغیره" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;gradientColor=#ffffff;strokeColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="357" y="-378" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7pnY4UaTc7vciJoPrL99-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;strokeColor=#000000;fontSize=10;exitX=0.632;exitY=0.13;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-136" target="7pnY4UaTc7vciJoPrL99-13">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-159" target="WIyWlLk6GJQsqaUBKTNV-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-159" value="&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 12px&quot;&gt;خرید /&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 12px&quot;&gt;فروش&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-free/96/Coins-128.png;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1211.23" y="-82.00999999999999" width="72" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-160" target="7pnY4UaTc7vciJoPrL99-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-160" value="دریافت اطلاعات حساب" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/mail-send-receive-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;gradientColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1105.3600000000001" y="-82.00999999999999" width="76.5" height="76.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
