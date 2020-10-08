@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T19:20:02.856Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="UJC544mTXhcPuOtjT4Lb" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T19:22:22.422Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="HThsqUkTN79VQ8R5pp3X" version="13.7.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="1139" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,12 +55,6 @@
         <mxCell id="7pnY4UaTc7vciJoPrL99-83" value="دیتابیس&lt;br&gt;mysql" style="shape=datastore;whiteSpace=wrap;html=1;strokeColor=#994C00;fillColor=#FFFFFF;gradientColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="-21.000000000000007" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-99" target="7pnY4UaTc7vciJoPrL99-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-99" value="لیست سهام جهت بررسی و دحیره اطلاعات روزانه" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;gradientColor=#ffffff;strokeColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="357" y="-308" width="137" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7pnY4UaTc7vciJoPrL99-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-108" target="7pnY4UaTc7vciJoPrL99-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -88,8 +82,11 @@
         <mxCell id="7pnY4UaTc7vciJoPrL99-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.288;entryY=0.206;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=10;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-141" target="7pnY4UaTc7vciJoPrL99-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7pnY4UaTc7vciJoPrL99-141" value="لیست سهام مورد هدف با دامنه نوسان" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;gradientColor=#ffffff;strokeColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="357" y="-378" width="137" height="60" as="geometry" />
+        <mxCell id="7pnY4UaTc7vciJoPrL99-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-141" target="7pnY4UaTc7vciJoPrL99-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7pnY4UaTc7vciJoPrL99-141" value="لیست سهام مورد هدف با دامنه نوسان + سهام وابسته" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#000000;align=center;gradientColor=#ffffff;strokeColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="385" y="-364" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7pnY4UaTc7vciJoPrL99-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;strokeColor=#000000;fontSize=10;exitX=0.632;exitY=0.13;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7pnY4UaTc7vciJoPrL99-136" target="7pnY4UaTc7vciJoPrL99-13">
           <mxGeometry relative="1" as="geometry" />
